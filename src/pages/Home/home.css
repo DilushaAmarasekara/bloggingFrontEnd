@@ -1,0 +1,20 @@
+.home{
+    display: flex;
+}
+
+.topSearchIcon{
+    font-size: 18px;
+    color: #666;
+    cursor: pointer;
+    margin-left: 10px;
+}
+
+.searchInput{
+    margin-top: 15px;
+    margin-left: 1050px;
+    padding: 10px;
+    background-color: rgb(235, 225, 225);
+    border: none;
+    border-color: white;
+    outline: none;
+}
